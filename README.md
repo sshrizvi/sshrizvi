@@ -8,22 +8,15 @@
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-### 📊 GitHub Stats
-<div
-  style = {
-    display : flex;
-    justify-content : center;
-    align-itmes : center;
-  }>
 
-  ![](https://github-readme-stats.vercel.app/api?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sshrizvi&theme=github_dark&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshrizvi&theme=github_dark&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sshrizvi&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
