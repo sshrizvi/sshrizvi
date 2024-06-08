@@ -1,4 +1,8 @@
+<h1 align="center">Hi 👋, I'm Shujaat</h1>
+<h3 align="center">A Data Science Enthusiast from India</h3>
+
 [![](https://visitcount.itsvg.in/api?id=sshrizvi&icon=0&color=3)](https://visitcount.itsvg.in)
+
 ### 💫 About Me
 🔭 I’m currently working on my DSA skills.<br>👯 I’m looking to collaborate on nothing for now.<br>🤝 I’m looking for help with DSA learning.<br>🌱 I’m currently learning DSA with Java.<br>💬 Ask me about Java.
 
