@@ -1,74 +1,21 @@
-# My Portfolio
+# 💫 About Me:
+🔭 I’m currently working on my DSA skills.<br>👯 I’m looking to collaborate on nothing for now.<br>🤝 I’m looking for help with DSA learning.<br>🌱 I’m currently learning DSA with Java.<br>💬 Ask me about Java.
 
-![Profile Picture](https://avatars.githubusercontent.com/u/sshrizvi)
 
-## About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abbas.ipynb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sshrizvi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thesshrizvi) 
 
-Hello! I'm [Shujaat](https://github.com/sshrizvi), a passionate developer with a knack for creating innovative solutions. I love working with Java, and I'm always eager to learn new things and take on new challenges.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sshrizvi&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sshrizvi&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- **Location:** Your City, Country
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## Projects
-
-### [Project 1 Name](https://github.com/your-github-username/project1-repo)
-**Description:** A brief description of what this project does and why it is interesting.
-
-- **Tech Stack:** List the technologies used
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Demo:** [Live Demo](https://your-project-demo-link.com)
-
-### [Project 2 Name](https://github.com/your-github-username/project2-repo)
-**Description:** A brief description of what this project does and why it is interesting.
-
-- **Tech Stack:** List the technologies used
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Demo:** [Live Demo](https://your-project-demo-link.com)
-
-### [Project 3 Name](https://github.com/your-github-username/project3-repo)
-**Description:** A brief description of what this project does and why it is interesting.
-
-- **Tech Stack:** List the technologies used
-- **Features:**
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Demo:** [Live Demo](https://your-project-demo-link.com)
-
-## Contributions
-
-### Open Source Projects
-- [Repository Name](https://github.com/username/repository)
-  - Brief description of the repository and your contributions.
-
-- [Repository Name](https://github.com/username/repository)
-  - Brief description of the repository and your contributions.
-
-### Issues & Pull Requests
-- **[Issue #123](https://github.com/username/repository/issues/123):** Brief description of the issue you reported.
-- **[Pull Request #456](https://github.com/username/repository/pull/456):** Brief description of the PR you submitted.
-
-## Blog Posts
-- **[Post Title](https://your-blog-link.com)** - A short description of the post.
-
-- **[Post Title](https://your-blog-link.com)** - A short description of the post.
-
-## Contact Me
-
-Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin-username). I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-*This portfolio was created using GitHub Flavored Markdown.*
+[![](https://visitcount.itsvg.in/api?id=sshrizvi&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
