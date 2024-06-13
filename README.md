@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shujaat</h1>
-<div align="center">
-  <img src="https://github.com/sshrizvi/sshrizvi/blob/main/animated-greeting.svg" alt="Hi there, my name is Shujaat">
-</div>
-
-
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=sshrizvi&icon=0&color=3)](https://visitcount.itsvg.in)
